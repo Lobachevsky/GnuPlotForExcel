@@ -1,8 +1,12 @@
 # GnuPlotForExcel
-GnuPlot Add-in for Excel
-Welcome to the GnuPlot add-in for Excel! For Excel 2010, 2013, and 2015. 
-0. Install GnuPlot if you haven't already. https://sourceforge.net/projects/gnuplot/ 
+
+Welcome to the GnuPlot add-in for Excel! 
+For Excel 2010, 2013, and 2015. 
+
+0. Install GnuPlot if you haven't already. 
+https://sourceforge.net/projects/gnuplot/ 
 Note the installation directory of the executable, typically C:\Program Files\gnuplot\bin, you will need it later. 
+
 1. Download the GnuPlot add-in for Excel. 
 
 https://sourceforge.net/projects/gnuplot-add-in-for-excel/ 
