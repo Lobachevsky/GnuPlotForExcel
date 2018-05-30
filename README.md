@@ -1,7 +1,10 @@
 # GnuPlotForExcel
 
 Welcome to the GnuPlot add-in for Excel! 
+
 For Excel 2010, 2013, and 2016. 
+
+This add-in is alternative to Excel graphics which facilitates use of GnuPlot directly in Excel sheets. GnuPlot scripts are stored in Excel along with the generated graphs and can be instantly edited and regenerated without leaving the Excel environment. Data can be read from Excel sheets by a cell range ("A1:C400") or using an Excel named range. 
 
 0. Install GnuPlot if you haven't already. 
 
