@@ -4,7 +4,9 @@ Welcome to the GnuPlot add-in for Excel!
 For Excel 2010, 2013, and 2015. 
 
 0. Install GnuPlot if you haven't already. 
+
 https://sourceforge.net/projects/gnuplot/ 
+
 Note the installation directory of the executable, typically C:\Program Files\gnuplot\bin, you will need it later. 
 
 1. Download the GnuPlot add-in for Excel. 
@@ -12,21 +14,29 @@ Note the installation directory of the executable, typically C:\Program Files\gn
 https://sourceforge.net/projects/gnuplot-add-in-for-excel/ 
 
 Minimally, you will need only GnuPlot.xlam. GnuPlot.xlsx is an empty workbook with GnuPlot buttons in the context menus. See the following for more technical information on context menus. 
-https://gregmaxey.com/word_tip_pages/customize_shortcut_menu.html 
+
+https://gregmaxey.com/word_tip_pages/customize_shortcut_menu.html
+
 https://www.rondebruin.nl/win/s2/win014.htm 
 
 2. Make sure the downloaded files are unblocked. 
 
 When add-in files are downloaded from the Internet, they are blocked by Windows for "security" reasons. Be sure to unblock GnuPlot.xlam and GnuPlot.xlsx immediately after downloading them. 
+
 https://blogs.msdn.microsoft.com/delay/p/unblockingdownloadedfile/ 
+
 https://winaero.com/blog/disable-downloaded-files-from-being-blocked-in-windows-10/ 
+
 http://www.jkp-ads.com/Articles/Excel-Add-ins-fail-to-load.asp 
 
 3. Install the add-in. 
 
 The addin needs to be installed and activated in Excel. This procedure varies slightly depending on your versions of Windows and Excel.
+
 http://www.contextures.com/exceladdins.html 
+
 https://www.excelcampus.com/tools/how-to-install-an-excel-add-in-guide/ 
+
 https://www.youtube.com/watch?v=reuU2zUsEPM 
 
 Hard part's over.
