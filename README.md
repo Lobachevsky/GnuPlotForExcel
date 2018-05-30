@@ -14,7 +14,7 @@ Note the installation directory of the executable, typically C:\Program Files\gn
 
 1. Download the GnuPlot add-in for Excel from GitHub.
 
-Minimally, you will need only GnuPlot.xlam. GnuPlot.xlsx is an empty workbook with GnuPlot buttons in the context menus. See the following for more technical information on context menus. 
+Minimally, you will need only GnuPlot.xlam. GnuPlot.xlsx is an empty workbook with GnuPlot buttons in the context menus.  GnuPlot.xltx is an Excel template which defines the relevant buttons. See the following for more technical information on context menus. 
 
 https://gregmaxey.com/word_tip_pages/customize_shortcut_menu.html
 
@@ -22,7 +22,7 @@ https://www.rondebruin.nl/win/s2/win014.htm
 
 2. Make sure the downloaded files are unblocked. 
 
-When add-in files are downloaded from the Internet, they are blocked by Windows for "security" reasons. Be sure to unblock GnuPlot.xlam and GnuPlot.xlsx immediately after downloading them. 
+When add-in files are downloaded from the Internet, they are blocked by Windows for "security" reasons. Be sure to unblock GnuPlot.xlam, GnuPlot.xlsx, and GnuPlot.xltx immediately after downloading them. 
 
 https://blogs.msdn.microsoft.com/delay/p/unblockingdownloadedfile/ 
 
@@ -50,9 +50,9 @@ You should see a new tab in the ribbon, GNUPLOT, toward the right. When you clic
 
 The add-in needs to know where the GnuPlot executable can be found on your computer. Often it is C:\Program Files\gnuplot\bin, but it can be anywhere. Click the Setup button in the GNUPLOT ribbon and fill in the relevant field in the dialogue box. This information will be saved in your computer's registry and needs to be entered only once. 
 
-6. Use the GnuPlot.xlsx helper workbook. 
+6. Use the GnuPlot.xlsx helper workbook and/or the GnuPlot.xltx template. 
 
-This is an empty workbook with the context menus configured so that you don't need to click around the ribbon to find the options, instead they are right there when you right click.
+This is an empty workbook with the context menus configured so that you don't need to click around the ribbon to find the options, instead they are right there when you right click.  Alternatively, the GnuPlot.xltx is a normal Excel template which accomplishes the same thing.  Note there is no VBA code here, only ribbon XML definitions.
 
 7. Your first GnuPlot 
 
