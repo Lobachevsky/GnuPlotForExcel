@@ -12,9 +12,7 @@ https://sourceforge.net/projects/gnuplot/
 
 Note the installation directory of the executable, typically C:\Program Files\gnuplot\bin, you will need it later. 
 
-1. Download the GnuPlot add-in for Excel. 
-
-https://sourceforge.net/projects/gnuplot-add-in-for-excel/ 
+1. Download the GnuPlot add-in for Excel from GitHub.
 
 Minimally, you will need only GnuPlot.xlam. GnuPlot.xlsx is an empty workbook with GnuPlot buttons in the context menus. See the following for more technical information on context menus. 
 
