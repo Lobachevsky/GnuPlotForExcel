@@ -1,7 +1,7 @@
 # GnuPlotForExcel
 
 Welcome to the GnuPlot add-in for Excel! 
-For Excel 2010, 2013, and 2015. 
+For Excel 2010, 2013, and 2016. 
 
 0. Install GnuPlot if you haven't already. 
 
